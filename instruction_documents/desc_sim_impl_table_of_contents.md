@@ -1,0 +1,24 @@
+- Ch. 2\. Implementing Simulation
+  - System Design
+  - Component Design
+  - Testing
+    - On Absolute Validation
+    - Causal Validation
+    - Boundaries of Veracity
+- Agentic Instructions
+  - Bootstraps
+    - Repository Structure
+    - Tools
+      - capture.sh
+      - upload.sh
+    - Workspaces
+    - Memory
+  - Agent Prompts
+    - Phenomener
+    - Expecter
+    - Implementer
+    - Master Prompt
+  - Implementation Guidelines
+    - Code Structure
+      - Memory
+    - Schedule of Work

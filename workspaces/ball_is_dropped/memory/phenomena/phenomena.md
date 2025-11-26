@@ -1,0 +1,3 @@
+- Release event: ball transitions from being supported at rest to free fall at the drop moment; confirm by observing loss of support and onset of downward motion from zero velocity.
+- Gravitational acceleration: ball experiences downward acceleration after release, causing its downward velocity to increase over time; confirm by timing intervals between equal distance markers or differentiating position over frames to see velocity growth.
+- Descent: the ball's vertical position decreases monotonically after release while unobstructed; confirm by sampling heights over time and verifying each is lower than the prior measurement.
