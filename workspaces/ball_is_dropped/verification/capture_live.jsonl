@@ -1,80 +1,80 @@
-{"tick": 0, "entities": {"1": {"simulation.position": {"y": 9.9019}, "simulation.velocity": {"y": -0.9810000000000001}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 1, "entities": {"1": {"simulation.position": {"y": 9.7057}, "simulation.velocity": {"y": -1.9620000000000002}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 2, "entities": {"1": {"simulation.position": {"y": 9.4114}, "simulation.velocity": {"y": -2.9430000000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 3, "entities": {"1": {"simulation.position": {"y": 9.019}, "simulation.velocity": {"y": -3.9240000000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 4, "entities": {"1": {"simulation.position": {"y": 8.5285}, "simulation.velocity": {"y": -4.905}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 5, "entities": {"1": {"simulation.position": {"y": 7.9399}, "simulation.velocity": {"y": -5.886}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 6, "entities": {"1": {"simulation.position": {"y": 7.2532}, "simulation.velocity": {"y": -6.867}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 7, "entities": {"1": {"simulation.position": {"y": 6.4684}, "simulation.velocity": {"y": -7.848}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 8, "entities": {"1": {"simulation.position": {"y": 5.5855}, "simulation.velocity": {"y": -8.829}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 9, "entities": {"1": {"simulation.position": {"y": 4.6045}, "simulation.velocity": {"y": -9.81}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 10, "entities": {"1": {"simulation.position": {"y": 3.5253999999999994}, "simulation.velocity": {"y": -10.791}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 11, "entities": {"1": {"simulation.position": {"y": 2.3481999999999994}, "simulation.velocity": {"y": -11.772}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 12, "entities": {"1": {"simulation.position": {"y": 1.0728999999999993}, "simulation.velocity": {"y": -12.753}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 13, "entities": {"1": {"simulation.position": {"y": -0.3005000000000009}, "simulation.velocity": {"y": -13.734}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 14, "entities": {"1": {"simulation.position": {"y": -1.772000000000001}, "simulation.velocity": {"y": -14.715}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 15, "entities": {"1": {"simulation.position": {"y": -3.341600000000001}, "simulation.velocity": {"y": -15.696}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 16, "entities": {"1": {"simulation.position": {"y": -5.009300000000001}, "simulation.velocity": {"y": -16.677}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 17, "entities": {"1": {"simulation.position": {"y": -6.775100000000002}, "simulation.velocity": {"y": -17.658}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 18, "entities": {"1": {"simulation.position": {"y": -8.639000000000003}, "simulation.velocity": {"y": -18.639000000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 19, "entities": {"1": {"simulation.position": {"y": -10.601000000000003}, "simulation.velocity": {"y": -19.620000000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 20, "entities": {"1": {"simulation.position": {"y": -12.661100000000003}, "simulation.velocity": {"y": -20.601000000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 21, "entities": {"1": {"simulation.position": {"y": -14.819300000000004}, "simulation.velocity": {"y": -21.582000000000008}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 22, "entities": {"1": {"simulation.position": {"y": -17.075600000000005}, "simulation.velocity": {"y": -22.56300000000001}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 23, "entities": {"1": {"simulation.position": {"y": -19.430000000000007}, "simulation.velocity": {"y": -23.54400000000001}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 24, "entities": {"1": {"simulation.position": {"y": -21.882500000000007}, "simulation.velocity": {"y": -24.525000000000013}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 25, "entities": {"1": {"simulation.position": {"y": -24.43310000000001}, "simulation.velocity": {"y": -25.506000000000014}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 26, "entities": {"1": {"simulation.position": {"y": -27.081800000000012}, "simulation.velocity": {"y": -26.487000000000016}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 27, "entities": {"1": {"simulation.position": {"y": -29.828600000000016}, "simulation.velocity": {"y": -27.468000000000018}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 28, "entities": {"1": {"simulation.position": {"y": -32.67350000000002}, "simulation.velocity": {"y": -28.44900000000002}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 29, "entities": {"1": {"simulation.position": {"y": -35.61650000000002}, "simulation.velocity": {"y": -29.43000000000002}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 30, "entities": {"1": {"simulation.position": {"y": -38.65760000000002}, "simulation.velocity": {"y": -30.411000000000023}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 31, "entities": {"1": {"simulation.position": {"y": -41.796800000000026}, "simulation.velocity": {"y": -31.392000000000024}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 32, "entities": {"1": {"simulation.position": {"y": -45.03410000000003}, "simulation.velocity": {"y": -32.373000000000026}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 33, "entities": {"1": {"simulation.position": {"y": -48.36950000000003}, "simulation.velocity": {"y": -33.35400000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 34, "entities": {"1": {"simulation.position": {"y": -51.80300000000003}, "simulation.velocity": {"y": -34.33500000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 35, "entities": {"1": {"simulation.position": {"y": -55.33460000000004}, "simulation.velocity": {"y": -35.31600000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 36, "entities": {"1": {"simulation.position": {"y": -58.96430000000004}, "simulation.velocity": {"y": -36.29700000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 37, "entities": {"1": {"simulation.position": {"y": -62.69210000000004}, "simulation.velocity": {"y": -37.278000000000034}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 38, "entities": {"1": {"simulation.position": {"y": -66.51800000000004}, "simulation.velocity": {"y": -38.259000000000036}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 39, "entities": {"1": {"simulation.position": {"y": -70.44200000000005}, "simulation.velocity": {"y": -39.24000000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 40, "entities": {"1": {"simulation.position": {"y": -74.46410000000006}, "simulation.velocity": {"y": -40.22100000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 41, "entities": {"1": {"simulation.position": {"y": -78.58430000000007}, "simulation.velocity": {"y": -41.20200000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 42, "entities": {"1": {"simulation.position": {"y": -82.80260000000007}, "simulation.velocity": {"y": -42.18300000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 43, "entities": {"1": {"simulation.position": {"y": -87.11900000000007}, "simulation.velocity": {"y": -43.164000000000044}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 44, "entities": {"1": {"simulation.position": {"y": -91.53350000000007}, "simulation.velocity": {"y": -44.145000000000046}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 45, "entities": {"1": {"simulation.position": {"y": -96.04610000000008}, "simulation.velocity": {"y": -45.12600000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 46, "entities": {"1": {"simulation.position": {"y": -100.65680000000009}, "simulation.velocity": {"y": -46.10700000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 47, "entities": {"1": {"simulation.position": {"y": -105.3656000000001}, "simulation.velocity": {"y": -47.08800000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 48, "entities": {"1": {"simulation.position": {"y": -110.1725000000001}, "simulation.velocity": {"y": -48.06900000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 49, "entities": {"1": {"simulation.position": {"y": -115.0775000000001}, "simulation.velocity": {"y": -49.050000000000054}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 50, "entities": {"1": {"simulation.position": {"y": -120.0806000000001}, "simulation.velocity": {"y": -50.031000000000056}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 51, "entities": {"1": {"simulation.position": {"y": -125.18180000000011}, "simulation.velocity": {"y": -51.01200000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 52, "entities": {"1": {"simulation.position": {"y": -130.38110000000012}, "simulation.velocity": {"y": -51.99300000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 53, "entities": {"1": {"simulation.position": {"y": -135.67850000000013}, "simulation.velocity": {"y": -52.97400000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 54, "entities": {"1": {"simulation.position": {"y": -141.07400000000013}, "simulation.velocity": {"y": -53.95500000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 55, "entities": {"1": {"simulation.position": {"y": -146.56760000000014}, "simulation.velocity": {"y": -54.936000000000064}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 56, "entities": {"1": {"simulation.position": {"y": -152.15930000000014}, "simulation.velocity": {"y": -55.917000000000066}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 57, "entities": {"1": {"simulation.position": {"y": -157.84910000000016}, "simulation.velocity": {"y": -56.89800000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 58, "entities": {"1": {"simulation.position": {"y": -163.63700000000017}, "simulation.velocity": {"y": -57.87900000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 59, "entities": {"1": {"simulation.position": {"y": -169.52300000000017}, "simulation.velocity": {"y": -58.86000000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 60, "entities": {"1": {"simulation.position": {"y": -175.50710000000018}, "simulation.velocity": {"y": -59.84100000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 61, "entities": {"1": {"simulation.position": {"y": -181.58930000000018}, "simulation.velocity": {"y": -60.822000000000074}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 62, "entities": {"1": {"simulation.position": {"y": -187.7696000000002}, "simulation.velocity": {"y": -61.803000000000075}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 63, "entities": {"1": {"simulation.position": {"y": -194.0480000000002}, "simulation.velocity": {"y": -62.78400000000008}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 64, "entities": {"1": {"simulation.position": {"y": -200.42450000000022}, "simulation.velocity": {"y": -63.76500000000008}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 65, "entities": {"1": {"simulation.position": {"y": -206.89910000000023}, "simulation.velocity": {"y": -64.74600000000008}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 66, "entities": {"1": {"simulation.position": {"y": -213.47180000000023}, "simulation.velocity": {"y": -65.72700000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 67, "entities": {"1": {"simulation.position": {"y": -220.14260000000024}, "simulation.velocity": {"y": -66.70800000000007}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 68, "entities": {"1": {"simulation.position": {"y": -226.91150000000025}, "simulation.velocity": {"y": -67.68900000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 69, "entities": {"1": {"simulation.position": {"y": -233.77850000000026}, "simulation.velocity": {"y": -68.67000000000006}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 70, "entities": {"1": {"simulation.position": {"y": -240.74360000000027}, "simulation.velocity": {"y": -69.65100000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 71, "entities": {"1": {"simulation.position": {"y": -247.80680000000027}, "simulation.velocity": {"y": -70.63200000000005}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 72, "entities": {"1": {"simulation.position": {"y": -254.96810000000028}, "simulation.velocity": {"y": -71.61300000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 73, "entities": {"1": {"simulation.position": {"y": -262.2275000000003}, "simulation.velocity": {"y": -72.59400000000004}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 74, "entities": {"1": {"simulation.position": {"y": -269.5850000000003}, "simulation.velocity": {"y": -73.57500000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 75, "entities": {"1": {"simulation.position": {"y": -277.0406000000003}, "simulation.velocity": {"y": -74.55600000000003}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 76, "entities": {"1": {"simulation.position": {"y": -284.5943000000003}, "simulation.velocity": {"y": -75.53700000000002}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 77, "entities": {"1": {"simulation.position": {"y": -292.2461000000003}, "simulation.velocity": {"y": -76.51800000000001}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 78, "entities": {"1": {"simulation.position": {"y": -299.9960000000003}, "simulation.velocity": {"y": -77.49900000000001}, "simulation.gravity": {"y": -9.81}}}}
-{"tick": 79, "entities": {"1": {"simulation.position": {"y": -307.84400000000034}, "simulation.velocity": {"y": -78.48}, "simulation.gravity": {"y": -9.81}}}}
+{"tick": 0, "entities": {}}
+{"tick": 1, "entities": {}}
+{"tick": 2, "entities": {}}
+{"tick": 3, "entities": {}}
+{"tick": 4, "entities": {}}
+{"tick": 5, "entities": {}}
+{"tick": 6, "entities": {}}
+{"tick": 7, "entities": {}}
+{"tick": 8, "entities": {}}
+{"tick": 9, "entities": {}}
+{"tick": 10, "entities": {}}
+{"tick": 11, "entities": {}}
+{"tick": 12, "entities": {}}
+{"tick": 13, "entities": {}}
+{"tick": 14, "entities": {}}
+{"tick": 15, "entities": {}}
+{"tick": 16, "entities": {}}
+{"tick": 17, "entities": {}}
+{"tick": 18, "entities": {}}
+{"tick": 19, "entities": {}}
+{"tick": 20, "entities": {}}
+{"tick": 21, "entities": {}}
+{"tick": 22, "entities": {}}
+{"tick": 23, "entities": {}}
+{"tick": 24, "entities": {}}
+{"tick": 25, "entities": {}}
+{"tick": 26, "entities": {}}
+{"tick": 27, "entities": {}}
+{"tick": 28, "entities": {}}
+{"tick": 29, "entities": {}}
+{"tick": 30, "entities": {}}
+{"tick": 31, "entities": {}}
+{"tick": 32, "entities": {}}
+{"tick": 33, "entities": {}}
+{"tick": 34, "entities": {}}
+{"tick": 35, "entities": {}}
+{"tick": 36, "entities": {}}
+{"tick": 37, "entities": {}}
+{"tick": 38, "entities": {}}
+{"tick": 39, "entities": {}}
+{"tick": 40, "entities": {}}
+{"tick": 41, "entities": {}}
+{"tick": 42, "entities": {}}
+{"tick": 43, "entities": {}}
+{"tick": 44, "entities": {}}
+{"tick": 45, "entities": {}}
+{"tick": 46, "entities": {}}
+{"tick": 47, "entities": {}}
+{"tick": 48, "entities": {}}
+{"tick": 49, "entities": {}}
+{"tick": 50, "entities": {}}
+{"tick": 51, "entities": {}}
+{"tick": 52, "entities": {}}
+{"tick": 53, "entities": {}}
+{"tick": 54, "entities": {}}
+{"tick": 55, "entities": {}}
+{"tick": 56, "entities": {}}
+{"tick": 57, "entities": {}}
+{"tick": 58, "entities": {}}
+{"tick": 59, "entities": {}}
+{"tick": 60, "entities": {}}
+{"tick": 61, "entities": {}}
+{"tick": 62, "entities": {}}
+{"tick": 63, "entities": {}}
+{"tick": 64, "entities": {}}
+{"tick": 65, "entities": {}}
+{"tick": 66, "entities": {}}
+{"tick": 67, "entities": {}}
+{"tick": 68, "entities": {}}
+{"tick": 69, "entities": {}}
+{"tick": 70, "entities": {}}
+{"tick": 71, "entities": {}}
+{"tick": 72, "entities": {}}
+{"tick": 73, "entities": {}}
+{"tick": 74, "entities": {}}
+{"tick": 75, "entities": {}}
+{"tick": 76, "entities": {}}
+{"tick": 77, "entities": {}}
+{"tick": 78, "entities": {}}
+{"tick": 79, "entities": {}}

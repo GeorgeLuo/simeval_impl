@@ -24,21 +24,41 @@ function spawnBall(
   return entity.id;
 }
 
+function spawnBallSimEval(context, options = {}) {
+  const {
+    initialHeight = DEFAULT_HEIGHT,
+    initialVelocity = 0,
+    gravityY = DEFAULT_GRAVITY,
+    includeGravity = true,
+  } = options;
+  const entity = context.entityManager.create();
+  context.componentManager.addComponent(entity, position.Component, { y: initialHeight });
+  context.componentManager.addComponent(entity, velocity.Component, { y: initialVelocity });
+  if (includeGravity) {
+    context.componentManager.addComponent(entity, gravity.Component, { y: gravityY });
+  }
+  return entity;
+}
+
 class BallSpawnerSystem {
   constructor(options = {}) {
     this.options = options;
     this.spawned = false;
   }
 
-  init(world) {
+  init(worldOrContext) {
     if (this.spawned) return;
-    spawnBall(world, this.options);
+    if (worldOrContext && worldOrContext.componentManager) {
+      spawnBallSimEval(worldOrContext, this.options);
+    } else {
+      spawnBall(worldOrContext, this.options);
+    }
     this.spawned = true;
   }
 
-  update(world) {
+  update(worldOrContext) {
     if (!this.spawned) {
-      this.init(world);
+      this.init(worldOrContext);
     }
   }
 }
